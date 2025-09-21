@@ -559,7 +559,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/16/proprietary/vendor/lib64/libvfb_render.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvfb_render.so \
     vendor/meizu/16/proprietary/vendor/lib64/libvfmtztransport.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvfmtztransport.so \
     vendor/meizu/16/proprietary/vendor/lib64/libvidhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance.so \
-    vendor/meizu/16/proprietary/vendor/lib64/libvmp_render.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvmp_render.so \
+    vendor/meizu/16/proprietary/vendor/lib64/libvmp_render.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvmp_render.so
 
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
